@@ -50,3 +50,7 @@ Test C: send the same payment webhook 100 times with one gateway_payment_id. Exp
 2. Insert sample data with sample_data.sql.
 3. Run P2 and integrity queries from queries.sql.
 4. Redis is required only for the runtime locking implementation; the schema itself is MySQL.
+
+## Submission
+
+This branch contains the final submission for the BookMyShow database design assignment.
